@@ -1,1 +1,0 @@
-NOTE: Use this data only for Histogram Equalizations not denoised.ipynb
